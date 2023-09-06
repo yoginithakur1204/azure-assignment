@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'appYogini'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FEC3AB30DED14AA7849DE47D1E24AB6B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBD7789DFDFE42C3B497539070E9BC21 }}
           package: .
